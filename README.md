@@ -25,6 +25,8 @@ Una API REST robusta desarrollada con Spring Boot 3 y Java 23 para la gestión d
 - **Value Objects**: Objetos de valor inmutables con validación integrada
 - **Auditoría Automática**: Timestamps automáticos de creación y modificación
 
+> Se recomienda utilizar Postman o la UI de Swagger para añadir buses mediante el metodo POST
+
 ## 🏗️ Arquitectura del Proyecto
 
 ### Clean Architecture (Arquitectura Limpia) - N-Tier
