@@ -16,7 +16,7 @@ Una API REST robusta desarrollada con Spring Boot 3 y Java 23 para la gestión d
 
 ## ✨ Características Principales
 
-- **API REST Completa**: Operaciones CRUD para gestión de buses y marcas
+- **API REST Completa**: Operaciones GET y POST para gestión de buses y marcas
 - **Paginación Avanzada**: Soporte nativo de paginación con Spring Data
 - **Validación Robusta**: Validación de datos con Bean Validation (JSR-303)
 - **Documentación Automática**: API documentada con OpenAPI 3.0 (Swagger)
